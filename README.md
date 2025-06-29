@@ -7,21 +7,3 @@ The calculator application has a graphical user interface (GUI) that allows user
 ## Required Modules
 The application requires Python's tkinter module for creating the GUI. tkinter is included with the standard Python distribution, so no additional installation is necessary.
 
-## How to Install Required Modules
-tkinter is included with Python by default. However, if you encounter any issues or if it is not installed, you can install it using the following command:
-            sudo apt-get install python3-tk
-
-## ▶️ How to Run the Script
-1. Clone the Repository:
-   ```
-   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
-   ```
-2. Navigate to Directory:
-   ```bash 
-          cd Simple-Python-Mini-Projects/Calculator
-   ```
-2. Run the Script:
-   ```bash 
-         python calculator.py
-   ```
-- Perform basic arithmetic operations like addition, subtraction, multiplication, and division.
